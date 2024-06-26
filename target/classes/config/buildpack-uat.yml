@@ -1,0 +1,11 @@
+
+
+#data:
+#info: "reading from external UAT config RunTime Changes" 
+ company:
+  name: ATOS FRANCE
+  contactNumber: +91767876451
+  address: |
+    123 EON IT PARK,
+    PUNE, INDIA
+ 
